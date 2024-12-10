@@ -33,17 +33,29 @@ Prerequisites:
 1. Python version 3.7 or higher
 2. Access to a web browser
 
+
 Installation
+
 Clone the repository:
-git clone https://github.com/JayRathod341997/DeepLensX.git
-cd Implementation-of-ML-model-for-image-classification
+
+git clone https://github.com/MirzaAzeemBaig/Implementation-of-ML-Model-for-Image-Classification-AICTE-Internship-on-AI---TechSaksham.git
+
+cd Implementation-of-ML-Model-for-Image-Classification-AICTE-Internship-on-AI-TechSaksham
+
 Create and activate a virtual environment:
+
 python -m venv venv
+
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+
 Install the required packages:
+
 pip install -r requirements.txt
+
 Start the Streamlit app:
-streamlit run app.py
+
+streamlit run Application.py
+
 Open the app: The app will open in your default web browser. If not, navigate to http://localhost:8501
 
 
