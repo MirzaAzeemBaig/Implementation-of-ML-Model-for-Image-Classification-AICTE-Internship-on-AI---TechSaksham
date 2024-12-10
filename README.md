@@ -37,7 +37,8 @@ Installation:
 
 Clone the repository:
 
-git clone https://github.com/JayRathod341997/DeepLensX.git
+git clone https://github.com/MirzaAzeemBaig/Implementation-of-ML-Model-for-Image-Classification-AICTE-Internship-on-AI---TechSaksham
+
 cd Implementation-of-ML-Model-for-Image-Classification
 
 
